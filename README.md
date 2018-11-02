@@ -9,6 +9,7 @@
 | Name | Description | Contribute |
 |:----|:-----------|:-------:|
 | [cargo](https://doc.rust-lang.org/cargo/) | The cargo book | 🤷 |
+| [Command Line Applications in Rust](https://rust-lang-nursery.github.io/cli-wg/) | A book about writing CLI's in Rust | [Github](https://github.com/rust-lang-nursery/cli-wg/tree/master/src) |
 | [Hello wasm-pack!](https://rustwasm.github.io/wasm-pack/book/) | The wasm-pack guide | [Github](https://github.com/rustwasm/wasm-pack/tree/master/docs/src) |
 | [mdbook](https://rust-lang-nursery.github.io/mdBook/)| The mdBook user guide | [Github](https://github.com/rust-lang-nursery/mdBook)|
 | [Rust Fuzz Book](https://fuzz.rs/book/cargo-fuzz.html) | Guides and tutorials on how to fuzz Rust code | [Github](https://github.com/rust-fuzz/book) ||
