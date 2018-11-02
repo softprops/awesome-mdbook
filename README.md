@@ -8,6 +8,7 @@
 
 | Name | Description | Contribute |
 |:----|:-----------|:-------:|
+| [Amethyst](https://www.amethyst.rs/book/latest/) | The Amethyst game engine book | [Github](https://github.com/amethyst/amethyst) |
 | [cargo](https://doc.rust-lang.org/cargo/) | The cargo book | 🤷 |
 | [Command Line Applications in Rust](https://rust-lang-nursery.github.io/cli-wg/) | A book about writing CLI's in Rust | [Github](https://github.com/rust-lang-nursery/cli-wg/tree/master/src) |
 | [Hello wasm-pack!](https://rustwasm.github.io/wasm-pack/book/) | The wasm-pack guide | [Github](https://github.com/rustwasm/wasm-pack/tree/master/docs/src) |
