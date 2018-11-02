@@ -19,7 +19,7 @@
 
 
 
-## 👯 Contriubuting
+## 👯 Contributing
 
 Pull requests are welcome. Try to keep this list organized.
 
