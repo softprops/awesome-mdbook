@@ -4,7 +4,7 @@
 
 ## 📚 Bookshelf
 
-[MdBook](https://rust-lang-nursery.github.io/mdBook/) is a tool for create books using Markdown files
+[MdBook](https://rust-lang-nursery.github.io/mdBook/) is a tool for creating books using Markdown files
 
 | Name | Description | Contribute |
 |:----|:-----------|:-------:|
