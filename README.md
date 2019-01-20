@@ -20,7 +20,7 @@
 | [Rust and Web Assembly](https://rustwasm.github.io/book/) | How to use Rust and WebAssembly together | [Github](https://github.com/rustwasm/book/) |
 | [Rust Fuzz Book](https://fuzz.rs/book/cargo-fuzz.html) | Guides and tutorials on how to fuzz Rust code | [Github](https://github.com/rust-fuzz/book) |
 | [Rust Programming Language](https://doc.rust-lang.org/book/2018-edition/foreword.html) | The book of Rust | [Github](https://github.com/rust-lang/book) |
-| [Rusty ECMA Book](https://freemasen.github.io/rusty-ecma-book/) | TBuild JavaScript Development Tools with Rust | [Github](https://github.com/freemasen/rusty-ecma-book/) |
+| [Rusty ECMA Book](https://freemasen.github.io/rusty-ecma-book/) | Build JavaScript Development Tools with Rust | [Github](https://github.com/freemasen/rusty-ecma-book/) |
 
 
 
