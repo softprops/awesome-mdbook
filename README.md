@@ -18,6 +18,7 @@
 | [mdbook](https://rust-lang-nursery.github.io/mdBook/)| The mdBook user guide | [Github](https://github.com/rust-lang-nursery/mdBook)|
 | [Rustdoc Book](https://doc.rust-lang.org/stable/rustdoc/) | Guide for Rustdoc | 🤷 |
 | [Rust and Web Assembly](https://rustwasm.github.io/book/) | How to use Rust and WebAssembly together | [Github](https://github.com/rustwasm/book/) |
+| [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) | Recipes using curated crates | [Github](https://github.com/rust-lang-nursery/rust-cookbook)
 | [Rust Fuzz Book](https://fuzz.rs/book/cargo-fuzz.html) | Guides and tutorials on how to fuzz Rust code | [Github](https://github.com/rust-fuzz/book) |
 | [Rust Programming Language](https://doc.rust-lang.org/book/2018-edition/foreword.html) | The book of Rust | [Github](https://github.com/rust-lang/book) |
 | [Rusty ECMA Book](https://freemasen.github.io/rusty-ecma-book/) | Build JavaScript Development Tools with Rust | [Github](https://github.com/freemasen/rusty-ecma-book/) |
