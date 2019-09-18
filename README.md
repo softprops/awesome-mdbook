@@ -17,6 +17,7 @@
 | [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/index.html) | For those that want to dive into the implementation of the foundational crates of the embedded ecosystem | [GitHub](https://GitHub.com/rust-embedded/embedonomicon) |
 | [Hello wasm-pack!](https://rustwasm.GitHub.io/wasm-pack/book/) | The wasm-pack guide | [GitHub](https://GitHub.com/rustwasm/wasm-pack/tree/master/docs/src) |
 | [mdbook](https://rust-lang-nursery.GitHub.io/mdBook/)| The mdBook user guide | [GitHub](https://GitHub.com/rust-lang-nursery/mdBook)|
+| [Pest Book](https://pest.rs/book/) | A thoughtful introduction to the pest parser | [GitHub](https://github.com/pest-parser/book) |
 | [Rustdoc Book](https://doc.rust-lang.org/stable/rustdoc/) | Guide for Rustdoc | 🤷 |
 | [Rust and Web Assembly](https://rustwasm.GitHub.io/book/) | How to use Rust and WebAssembly together | [GitHub](https://GitHub.com/rustwasm/book/) |
 | [Rust Cookbook](https://rust-lang-nursery.GitHub.io/rust-cookbook/) | Recipes using curated crates | [GitHub](https://GitHub.com/rust-lang-nursery/rust-cookbook)
