@@ -9,6 +9,7 @@
 | Name | Description | Contribute |
 |:----|:-----------|:-------:|
 | [Async Book](https://rust-lang.GitHub.io/async-book/index.html) | Asynchronous Programming in Rust | [GitHub](https://GitHub.com/rust-lang/async-book) |
+| [Async Std Book](https://book.async.rs/) | Async programming in Rust with async-std | [GitHub](https://github.com/async-rs/async-std/tree/master/docs) |
 | [Amethyst](https://www.amethyst.rs/book/latest/) | The Amethyst game engine book | [GitHub](https://GitHub.com/amethyst/amethyst) |
 | [cargo](https://doc.rust-lang.org/cargo/) | The cargo book | [GitHub](https://GitHub.com/rust-lang/cargo/tree/master/src/doc/src) |
 | [Command Line Applications in Rust](https://rust-lang-nursery.GitHub.io/cli-wg/) | A book about writing CLI's in Rust | [GitHub](https://GitHub.com/rust-lang-nursery/cli-wg/tree/master/src) |
