@@ -23,7 +23,7 @@
 | [Rustdoc Book](https://doc.rust-lang.org/stable/rustdoc/) | Guide for Rustdoc | 🤷 |
 | [Rust and Web Assembly](https://rustwasm.GitHub.io/book/) | How to use Rust and WebAssembly together | [GitHub](https://GitHub.com/rustwasm/book/) |
 | [Rust Cookbook](https://rust-lang-nursery.GitHub.io/rust-cookbook/) | Recipes using curated crates | [GitHub](https://GitHub.com/rust-lang-nursery/rust-cookbook)
-| [Rust Fuzz Book](https://fuzz.rs/book/cargo-fuzz.html) | Guides and tutorials on how to fuzz Rust code | [GitHub](https://GitHub.com/rust-fuzz/book) |
+| [Rust Fuzz Book](https://rust-fuzz.github.io/book/) | Guides and tutorials on how to fuzz Rust code | [GitHub](https://GitHub.com/rust-fuzz/book) |
 | [Rust Programming Language](https://doc.rust-lang.org/book/2018-edition/foreword.html) | The book of Rust | [GitHub](https://GitHub.com/rust-lang/book) |
 | [Rusty ECMA Book](https://freemasen.GitHub.io/rusty-ecma-book/) | Build JavaScript Development Tools with Rust | [GitHub](https://GitHub.com/freemasen/rusty-ecma-book/) |
 
