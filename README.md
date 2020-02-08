@@ -16,7 +16,7 @@
 | [Discovery](https://docs.rust-embedded.org/discovery/index.html) | The Discovery Book will teach you about microcontrollers, peripherals, sensors and bare metal programming in Rust | [GitHub](https://GitHub.com/rust-embedded/discovery) |
 | [The Embedded Rust Book](https://docs.rust-embedded.org/book/index.html) | The Embedded Rust Book will get you up to speed with embedded Rust development | [GitHub](https://GitHub.com/rust-embedded/book) |
 | [The Embedonomicon](https://docs.rust-embedded.org/embedonomicon/index.html) | For those that want to dive into the implementation of the foundational crates of the embedded ecosystem | [GitHub](https://GitHub.com/rust-embedded/embedonomicon) |
-| | | |
+| [Firefox Data Documentation](https://github.com/mozilla/firefox-data-docs) | A guide for interpreting data gathered by the Firefox Telemetry system | [GitHub](https://github.com/mozilla/firefox-data-docs) |
 | [Hello wasm-pack!](https://rustwasm.GitHub.io/wasm-pack/book/) | The wasm-pack guide | [GitHub](https://GitHub.com/rustwasm/wasm-pack/tree/master/docs/src) |
 | [mdbook](https://rust-lang-nursery.GitHub.io/mdBook/)| The mdBook user guide | [GitHub](https://GitHub.com/rust-lang-nursery/mdBook)|
 | [Pest Book](https://pest.rs/book/) | A thoughtful introduction to the pest parser | [GitHub](https://github.com/pest-parser/book) |
