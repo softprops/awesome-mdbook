@@ -26,7 +26,7 @@
 | [Rust Cookbook](https://rust-lang-nursery.GitHub.io/rust-cookbook/) | Recipes using curated crates | [GitHub](https://GitHub.com/rust-lang-nursery/rust-cookbook)
 | [Rust Fuzz Book](https://rust-fuzz.github.io/book/) | Guides and tutorials on how to fuzz Rust code | [GitHub](https://GitHub.com/rust-fuzz/book) |
 | [Rust Programming Language](https://doc.rust-lang.org/book/2018-edition/foreword.html) | The book of Rust | [GitHub](https://GitHub.com/rust-lang/book) |
-| [Rusty ECMA Book](https://freemasen.GitHub.io/rusty-ecma-book/) | Build JavaScript Development Tools with Rust | [GitHub](https://GitHub.com/freemasen/rusty-ecma-book/) |
+| [Rusty ECMA Book](https://rusty-ecma.github.io/rusty-ecma-book/) | Build JavaScript Development Tools with Rust | [GitHub](https://GitHub.com/freemasen/rusty-ecma-book/) |
 
 
 
