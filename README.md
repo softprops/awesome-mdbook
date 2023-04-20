@@ -27,6 +27,7 @@
 | [Rust Fuzz Book](https://rust-fuzz.github.io/book/) | Guides and tutorials on how to fuzz Rust code | [GitHub](https://GitHub.com/rust-fuzz/book) |
 | [Rust Programming Language](https://doc.rust-lang.org/book/2018-edition/foreword.html) | The book of Rust | [GitHub](https://GitHub.com/rust-lang/book) |
 | [Rusty ECMA Book](https://rusty-ecma.github.io/rusty-ecma-book/) | Build JavaScript Development Tools with Rust | [GitHub](https://GitHub.com/freemasen/rusty-ecma-book/) |
+| [Anomaly Modding Book](https://igigog.github.io/anomaly-modding-book/) | S.T.A.L.K.E.R Anomaly Modding Study Book | [GitHub](https://github.com/Igigog/anomaly-modding-book) |
 
 
 
