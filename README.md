@@ -21,7 +21,7 @@
 | [mdbook](https://rust-lang-nursery.GitHub.io/mdBook/)| The mdBook user guide | [GitHub](https://GitHub.com/rust-lang-nursery/mdBook)|
 | [Pest Book](https://pest.rs/book/) | A thoughtful introduction to the pest parser | [GitHub](https://github.com/pest-parser/book) |
 | [Proptest Book](https://altsysrq.github.io/proptest-book/intro.html) | Proptest | [GitHub](https://github.com/AltSysrq/proptest/tree/master/book) |
-| [Rustdoc Book](https://doc.rust-lang.org/stable/rustdoc/) | Guide for Rustdoc | 🤷 |
+| [Rustdoc Book](https://doc.rust-lang.org/stable/rustdoc/) | Guide for Rustdoc | [GitHub](https://github.com/rust-lang/rust/tree/master/src/doc/rustdoc) |
 | [Rust and Web Assembly](https://rustwasm.GitHub.io/book/) | How to use Rust and WebAssembly together | [GitHub](https://GitHub.com/rustwasm/book/) |
 | [Rust Cookbook](https://rust-lang-nursery.GitHub.io/rust-cookbook/) | Recipes using curated crates | [GitHub](https://GitHub.com/rust-lang-nursery/rust-cookbook)
 | [Rust Fuzz Book](https://rust-fuzz.github.io/book/) | Guides and tutorials on how to fuzz Rust code | [GitHub](https://GitHub.com/rust-fuzz/book) |
